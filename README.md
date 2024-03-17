@@ -1,4 +1,5 @@
 # PuterSF
+For [Puter](https://github.com/HeyPuter/puter) cloud OS
 [Open the app](https://puter.com/app/putersf)
 
 See your computer specs in Puter with PuterSF!
